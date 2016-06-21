@@ -1,7 +1,9 @@
-package devintensive.softdesign.com.devintensive;
+package devintensive.softdesign.com.devintensive.ui.activities;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import devintensive.softdesign.com.devintensive.R;
 
 public class MainActivity extends AppCompatActivity {
 
