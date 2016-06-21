@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--Keylines and margins-->
+
+    <dimen name="screen_edge_margin">24dp</dimen>
+    <dimen name="content_left_margin">80dp</dimen>
+    <dimen name="card_padding_24">24dp</dimen>
+    <dimen name="card_content_left_padding_104">104dp</dimen>
+    <dimen name="screen_edge_padding_24">24dp</dimen>
+    <dimen name="icons_center_distance_52">52dp</dimen>
+    <dimen name="nav_item_left_padding_from_screen_edge_52">104dp</dimen>
+    <dimen name="content_left_margin_from_screen_edge_80">80dp</dimen>
+    <dimen name="card_left_and_right_padding_32">32dp</dimen>
+    <dimen name="card_nav_item_left_padding_96">96dp</dimen>
+    
+    <!--Vertical spacing-->
+    
+    <dimen name="status_bar">24dp</dimen>
+    <dimen name="list_item_tablet_64">64dp</dimen>
+    <dimen name="toolbar">64dp</dimen>
+    <dimen name="slider_48">48dp</dimen>
+    <dimen name="title">80dp</dimen>
+
+
+
+</resources>

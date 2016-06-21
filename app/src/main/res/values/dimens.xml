@@ -1,0 +1,45 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <!--Fonts-->
+    <dimen name="font_huge_45">45sp</dimen>
+    <dimen name="font_large_34">34sp</dimen>
+    <dimen name="font_medium_24">24sp</dimen>
+    <dimen name="font_small_16">16sp</dimen>
+    <dimen name="font_tuny_13">13sp</dimen>
+    
+    <!--Sizes-->
+    <dimen name="size_small_24">24dp</dimen>
+    <dimen name="size_medium_56">56dp</dimen>
+    <dimen name="size_large_72">72dp</dimen>
+
+    <!--Keylines and spacing-->
+
+    <dimen name="screen_edge_margin">16dp</dimen>
+    <dimen name="content_left_margin">72dp</dimen>
+    <dimen name="screen_horizontal_margin_16">16dp</dimen>
+    <dimen name="right_icons_align_32">32dp</dimen>
+
+
+    <!--Vertical spacing-->
+    
+    <dimen name="status_bar">24dp</dimen>
+    <dimen name="toolbar">56dp</dimen>
+    <dimen name="subtitle_48">48dp</dimen>
+    <dimen name="list_item">72dp</dimen>
+    <dimen name="title">72dp</dimen>
+    <dimen name="content_space_8">8dp</dimen>
+    <dimen name="nav_drawer_list_item_48">48dp</dimen>
+    <dimen name="nav_drawer_account_menu_48">48dp</dimen>
+    <dimen name="nav_drawer_right_margin_56">56dp</dimen>
+
+    <!--Touch target size-->
+    <dimen name="avatar_40">40dp</dimen>
+    <dimen name="icon_24">24dp</dimen>
+    <dimen name="touch_target_48">48dp</dimen>
+    <dimen name="button_height_36">36dp</dimen>
+
+    
+</resources>
